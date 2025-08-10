@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Text Not Found
+### Text Not Found
 
-Statistical Stylometric and Text-Mining Tools for Determining Books Authorship
+*Statistical Stylometric and Text-Mining Tools for Determining Books Authorship*
 
 Aleksandr Buglakov
 
