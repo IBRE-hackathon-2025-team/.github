@@ -4,19 +4,15 @@
 
 *Statistical Stylometric and Text-Mining Tools for Determining Books Authorship*
 
-Aleksandr Buglakov
+Team:
+- Aleksandr Buglakov
+- Irina Grishchenko
+- Andrew Kropochev
+- Daria Lunegova
+- Alexandra Malygina
+- Aleksandr Voskoboinikov
 
-Irina Grishchenko
-
-Andrew Kropochev
-
-Daria Lunegova
-
-Alexandra Malygina
-
-Aleksandr Voskoboinikov
-
-Matvei Slavenko | Independent researcher
+Mentor: Matvei Slavenko | Independent researcher
 
 <!--
 
