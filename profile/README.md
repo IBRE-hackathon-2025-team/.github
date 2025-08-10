@@ -1,13 +1,19 @@
 ## Hi there 👋
 
 Text Not Found
+
 Statistical Stylometric and Text-Mining Tools for Determining Books Authorship
 
 Aleksandr Buglakov
+
 Irina Grishchenko
+
 Andrew Kropochev
+
 Daria Lunegova
+
 Alexandra Malygina
+
 Aleksandr Voskoboinikov
 
 Matvei Slavenko | Independent researcher
